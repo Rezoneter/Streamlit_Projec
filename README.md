@@ -5,4 +5,4 @@
 3. Analyzing data on jupyter notebook
 4. If that data can develop AI, Use machine learning
 5. Screen develop on web dashboard
-6. Apply in ecc2 with AWS
+6. Apply in EC2 with AWS
